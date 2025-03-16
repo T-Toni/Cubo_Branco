@@ -1,0 +1,15 @@
+
+
+ORDEM:
+
+implementar recursos naturais
+
+	- FAZER RECURSOS APARECEREM NA MATRIZ
+
+	- Inventário
+
+	- implementar drop de itens
+	- implementar sistema de partículas para cada bloco (algo para que oo hit seja sentido ex folhas caindo)
+
+
+fazer sistema de energiam 

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"TODO",
+  "name":"TODO",
+  "parent":{
+    "name":"CUBO_BRANCO",
+    "path":"CUBO_BRANCO.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
